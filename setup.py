@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["pandas", "numpy", "matplotlib"]
+requirements = ["pandas>=2.0.3", "numpy>=1.25.1", "matplotlib>=3.7.2"]
 
 setup(
     name="almpy",
-    version="0.0.1",
+    version="0.0.3",
     author="Almaz Abdulhakov",
     author_email="ekzis1984@gmail.com",
     description="Geo package",
