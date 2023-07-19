@@ -7,10 +7,10 @@ requirements = ["pandas>=2.0.3", "numpy>=1.25.1", "matplotlib>=3.7.2"]
 
 setup(
     name="almpy",
-    version="0.0.3",
+    version="0.0.2",
     author="Almaz Abdulhakov",
     author_email="ekzis1984@gmail.com",
-    description="Geo package",
+    description="Geo package htat generate base model and make geological shift",
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/almpyAll/almpy",

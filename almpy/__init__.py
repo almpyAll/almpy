@@ -1,1 +1,1 @@
-from .almpy import generate_base, gen_slice
+from .almpy import generate_base, gen_slice, show
